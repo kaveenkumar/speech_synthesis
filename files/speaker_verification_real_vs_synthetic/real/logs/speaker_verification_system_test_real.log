@@ -1,0 +1,105 @@
+SPEAKER VERIFICATION TEST RESULTS on 2021-08-25 20:11
+
+MODEL INFO: speechbrain/spkrec-ecapa-voxceleb
+
+########## TEST SAMPLES FROM A SPEAKER AGAINST HIS/HER OWN ENROLLMENT FILE: ##########
+MUSIC ON: False , WITH NOISE: False 
+
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1000.wav; Score: 0.62900; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1001.wav; Score: 0.64505; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1002.wav; Score: 0.79364; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1003.wav; Score: 0.73110; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1004.wav; Score: 0.69799; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1005.wav; Score: 0.67502; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1006.wav; Score: 0.71687; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1007.wav; Score: 0.55419; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1008.wav; Score: 0.59718; Decision: True
+Enrollment file: enrollment_20210218_male1_device1.wav; Test file: 20210218_male1_device1009.wav; Score: 0.72617; Decision: True
+True Positives: 33, False Negatives: 0 - out of 33 Samples
+
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2000.wav; Score: 0.68557; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2001.wav; Score: 0.56885; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2002.wav; Score: 0.61374; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2003.wav; Score: 0.73384; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2004.wav; Score: 0.73478; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2005.wav; Score: 0.63696; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2006.wav; Score: 0.62088; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2007.wav; Score: 0.65313; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2008.wav; Score: 0.63482; Decision: True
+Enrollment file: enrollment_20210223_male2_device2.wav; Test file: 20210223_male2_device2009.wav; Score: 0.62987; Decision: True
+True Positives: 97, False Negatives: 0 - out of 97 Samples
+
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2000.wav; Score: 0.67021; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2001.wav; Score: 0.57824; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2002.wav; Score: 0.73269; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2003.wav; Score: 0.63866; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2004.wav; Score: 0.58306; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2005.wav; Score: 0.53630; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2006.wav; Score: 0.56709; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2007.wav; Score: 0.58302; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2008.wav; Score: 0.65835; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female1_device2009.wav; Score: 0.51087; Decision: True
+True Positives: 88, False Negatives: 0 - out of 88 Samples
+
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1000.wav; Score: 0.78251; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1001.wav; Score: 0.72285; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1002.wav; Score: 0.69254; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1003.wav; Score: 0.75948; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1004.wav; Score: 0.65603; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1005.wav; Score: 0.65648; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1006.wav; Score: 0.68124; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1007.wav; Score: 0.54650; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1008.wav; Score: 0.58038; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female2_device1009.wav; Score: 0.65050; Decision: True
+True Positives: 99, False Negatives: 0 - out of 99 Samples
+
+
+########## TEST SAMPLES FROM A SPEAKER AGAINST A RANDOMLY SELECTED SPEAKER'S ENROLLMENT FILE: ##########
+MUSIC ON: False , WITH NOISE: False 
+
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1000.wav; Score: -0.08104; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1001.wav; Score: -0.15273; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1002.wav; Score: -0.02988; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1003.wav; Score: -0.07580; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1004.wav; Score: -0.08392; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1005.wav; Score: -0.07426; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1006.wav; Score: -0.08636; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1007.wav; Score: -0.09171; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1008.wav; Score: -0.20251; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210218_male1_device1009.wav; Score: 0.00175; Decision: False
+True negatives: 33, False positives: 0 - out of 33 Samples
+
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2000.wav; Score: 0.01709; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2001.wav; Score: 0.07341; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2002.wav; Score: -0.03540; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2003.wav; Score: -0.03741; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2004.wav; Score: -0.06178; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2005.wav; Score: -0.02424; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2006.wav; Score: 0.04837; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2007.wav; Score: 0.02952; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_male2_device2008.wav; Score: 0.06255; Decision: False
+True negatives: 97, False positives: 0 - out of 97 Samples
+
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2000.wav; Score: 0.11581; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2001.wav; Score: 0.20035; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2002.wav; Score: 0.22281; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2003.wav; Score: 0.33127; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2004.wav; Score: 0.26563; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2005.wav; Score: 0.29782; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2006.wav; Score: 0.24949; Decision: False
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2007.wav; Score: 0.31819; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2008.wav; Score: 0.30077; Decision: True
+Enrollment file: enrollment_20210223_female2_device1.wav; Test file: 20210223_female1_device2009.wav; Score: 0.34925; Decision: True
+True negatives: 46, False positives: 42 - out of 88 Samples
+
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1000.wav; Score: 0.31230; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1001.wav; Score: 0.28296; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1002.wav; Score: 0.27726; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1003.wav; Score: 0.28668; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1004.wav; Score: 0.14994; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1005.wav; Score: 0.16301; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1006.wav; Score: 0.16692; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1007.wav; Score: -0.04560; Decision: False
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1008.wav; Score: 0.28904; Decision: True
+Enrollment file: enrollment_20210223_female1_device2.wav; Test file: 20210223_female2_device1009.wav; Score: 0.11744; Decision: False
+True negatives: 85, False positives: 14 - out of 99 Samples

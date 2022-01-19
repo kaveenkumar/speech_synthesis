@@ -1,0 +1,1 @@
+Unfortunately, the real data for speaker verification contains a client of Bragi with the client's brand name in the "enrollment" and "verification" sentences. Hence, they cannot be uploaded here due to copyrights.
