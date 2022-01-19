@@ -1,0 +1,665 @@
+SPEAKER VERIFICATION TEST RESULTS on 2022-01-03 11:26
+
+MODEL INFO: speechbrain/spkrec-ecapa-voxceleb
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p226
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p227
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p232
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p237
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p241
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p243
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p245
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p246
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p247
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p251
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p252
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p254
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p255
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p256
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p258
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p225
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p228
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p229
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p230
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p231
+
+SYNTHESIZING ENROLLMENT AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p226
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p227
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p232
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p237
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p241
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p243
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p245
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p246
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p247
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p251
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p252
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p254
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p255
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p256
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p258
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p225
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p228
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p229
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p230
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p231
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+SYNTHESIZING VERIFICATION AUDIO FOR SPEAKER p233
+
+########## TEST SAMPLES FROM A SPEAKER AGAINST HIS/HER OWN ENROLLMENT FILE: ##########
+MUSIC ON: False , WITH NOISE: False 
+
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_1.wav; Score: 0.59051; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_10.wav; Score: 0.57979; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_2.wav; Score: 0.50115; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_3.wav; Score: 0.53019; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_4.wav; Score: 0.58365; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_5.wav; Score: 0.56217; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_6.wav; Score: 0.60259; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_7.wav; Score: 0.55765; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_8.wav; Score: 0.55076; Decision: True
+Enrollment file: enrollment_%_p225_%.wav; Test file: 2022_01_01_p225_verification_9.wav; Score: 0.50562; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_1.wav; Score: 0.82291; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_10.wav; Score: 0.76646; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_2.wav; Score: 0.78152; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_3.wav; Score: 0.80303; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_4.wav; Score: 0.78879; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_5.wav; Score: 0.82238; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_6.wav; Score: 0.80203; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_7.wav; Score: 0.76318; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_8.wav; Score: 0.78985; Decision: True
+Enrollment file: enrollment_%_p226_%.wav; Test file: 2022_01_01_p226_verification_9.wav; Score: 0.81709; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_1.wav; Score: 0.76339; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_10.wav; Score: 0.75385; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_2.wav; Score: 0.75582; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_3.wav; Score: 0.77755; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_4.wav; Score: 0.79453; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_5.wav; Score: 0.75654; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_6.wav; Score: 0.74760; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_7.wav; Score: 0.74572; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_8.wav; Score: 0.70570; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p227_verification_9.wav; Score: 0.76107; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_1.wav; Score: 0.51581; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_10.wav; Score: 0.56928; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_2.wav; Score: 0.61513; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_3.wav; Score: 0.53368; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_4.wav; Score: 0.54712; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_5.wav; Score: 0.60427; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_6.wav; Score: 0.61426; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_7.wav; Score: 0.62717; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_8.wav; Score: 0.63025; Decision: True
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p228_verification_9.wav; Score: 0.62706; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_1.wav; Score: 0.73645; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_10.wav; Score: 0.71340; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_2.wav; Score: 0.71643; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_3.wav; Score: 0.77512; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_4.wav; Score: 0.72782; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_5.wav; Score: 0.71947; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_6.wav; Score: 0.76018; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_7.wav; Score: 0.69092; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_8.wav; Score: 0.71902; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p229_verification_9.wav; Score: 0.66615; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_1.wav; Score: 0.52287; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_10.wav; Score: 0.54503; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_2.wav; Score: 0.54442; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_3.wav; Score: 0.50400; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_4.wav; Score: 0.55879; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_5.wav; Score: 0.73093; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_6.wav; Score: 0.54484; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_7.wav; Score: 0.70288; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_8.wav; Score: 0.52367; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p230_verification_9.wav; Score: 0.53255; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_1.wav; Score: 0.72078; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_10.wav; Score: 0.67549; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_2.wav; Score: 0.70361; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_3.wav; Score: 0.69753; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_4.wav; Score: 0.64593; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_5.wav; Score: 0.69029; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_6.wav; Score: 0.70387; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_7.wav; Score: 0.66912; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_8.wav; Score: 0.72636; Decision: True
+Enrollment file: enrollment_%_p231_%.wav; Test file: 2022_01_01_p231_verification_9.wav; Score: 0.66375; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_1.wav; Score: 0.64812; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_10.wav; Score: 0.64320; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_2.wav; Score: 0.60701; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_3.wav; Score: 0.65709; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_4.wav; Score: 0.61607; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_5.wav; Score: 0.66190; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_6.wav; Score: 0.61047; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_7.wav; Score: 0.58184; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_8.wav; Score: 0.59799; Decision: True
+Enrollment file: enrollment_%_p232_%.wav; Test file: 2022_01_01_p232_verification_9.wav; Score: 0.66294; Decision: True
+True Positives: 10, False Negatives: 0 - out of 10 Samples
+
+
+########## TEST SAMPLES FROM A SPEAKER AGAINST A RANDOMLY SELECTED SPEAKER'S ENROLLMENT FILE: ##########
+MUSIC ON: False , WITH NOISE: False 
+
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_1.wav; Score: 0.29077; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_10.wav; Score: 0.28717; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_2.wav; Score: 0.26652; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_3.wav; Score: 0.25743; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_4.wav; Score: 0.29022; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_5.wav; Score: 0.27871; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_6.wav; Score: 0.27469; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_7.wav; Score: 0.20770; Decision: False
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_8.wav; Score: 0.25936; Decision: True
+Enrollment file: enrollment_%_p230_%.wav; Test file: 2022_01_01_p225_verification_9.wav; Score: 0.20837; Decision: False
+True negatives: 2, False positives: 8 - out of 10 Samples
+
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_1.wav; Score: 0.34979; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_10.wav; Score: 0.35424; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_2.wav; Score: 0.37672; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_3.wav; Score: 0.34941; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_4.wav; Score: 0.33702; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_5.wav; Score: 0.32703; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_6.wav; Score: 0.35655; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_7.wav; Score: 0.34474; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_8.wav; Score: 0.34434; Decision: True
+Enrollment file: enrollment_%_p227_%.wav; Test file: 2022_01_01_p226_verification_9.wav; Score: 0.31556; Decision: True
+True negatives: 0, False positives: 10 - out of 10 Samples
+
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_1.wav; Score: 0.28534; Decision: True
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_10.wav; Score: 0.28798; Decision: True
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_2.wav; Score: 0.22276; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_3.wav; Score: 0.19987; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_4.wav; Score: 0.23575; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_5.wav; Score: 0.22978; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_6.wav; Score: 0.19799; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_7.wav; Score: 0.18008; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_8.wav; Score: 0.24488; Decision: False
+Enrollment file: enrollment_%_p243_%.wav; Test file: 2022_01_01_p227_verification_9.wav; Score: 0.25567; Decision: True
+True negatives: 7, False positives: 3 - out of 10 Samples
+
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_1.wav; Score: -0.00035; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_10.wav; Score: 0.03251; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_2.wav; Score: 0.02610; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_3.wav; Score: 0.01755; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_4.wav; Score: 0.01036; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_5.wav; Score: 0.02009; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_6.wav; Score: -0.01111; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_7.wav; Score: -0.01000; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_8.wav; Score: 0.06184; Decision: False
+Enrollment file: enrollment_%_p254_%.wav; Test file: 2022_01_01_p228_verification_9.wav; Score: -0.00795; Decision: False
+True negatives: 10, False positives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_1.wav; Score: 0.14471; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_10.wav; Score: 0.08561; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_2.wav; Score: 0.15529; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_3.wav; Score: 0.10960; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_4.wav; Score: 0.11519; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_5.wav; Score: 0.15326; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_6.wav; Score: 0.13550; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_7.wav; Score: 0.14076; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_8.wav; Score: 0.08596; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p229_verification_9.wav; Score: 0.05541; Decision: False
+True negatives: 10, False positives: 0 - out of 10 Samples
+
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_1.wav; Score: 0.21717; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_10.wav; Score: 0.27291; Decision: True
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_2.wav; Score: 0.25292; Decision: True
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_3.wav; Score: 0.23125; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_4.wav; Score: 0.31126; Decision: True
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_5.wav; Score: 0.04611; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_6.wav; Score: 0.22536; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_7.wav; Score: 0.07682; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_8.wav; Score: 0.20808; Decision: False
+Enrollment file: enrollment_%_p252_%.wav; Test file: 2022_01_01_p230_verification_9.wav; Score: 0.21039; Decision: False
+True negatives: 7, False positives: 3 - out of 10 Samples
+
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_1.wav; Score: 0.25813; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_10.wav; Score: 0.27303; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_2.wav; Score: 0.27470; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_3.wav; Score: 0.29323; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_4.wav; Score: 0.28416; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_5.wav; Score: 0.23138; Decision: False
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_6.wav; Score: 0.26922; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_7.wav; Score: 0.29727; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_8.wav; Score: 0.33318; Decision: True
+Enrollment file: enrollment_%_p229_%.wav; Test file: 2022_01_01_p231_verification_9.wav; Score: 0.31334; Decision: True
+True negatives: 1, False positives: 9 - out of 10 Samples
+
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_1.wav; Score: 0.15218; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_10.wav; Score: 0.16089; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_2.wav; Score: 0.07155; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_3.wav; Score: 0.06059; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_4.wav; Score: 0.07883; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_5.wav; Score: 0.10322; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_6.wav; Score: 0.13440; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_7.wav; Score: 0.11708; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_8.wav; Score: 0.12051; Decision: False
+Enrollment file: enrollment_%_p228_%.wav; Test file: 2022_01_01_p232_verification_9.wav; Score: 0.10440; Decision: False
+True negatives: 10, False positives: 0 - out of 10 Samples
+
