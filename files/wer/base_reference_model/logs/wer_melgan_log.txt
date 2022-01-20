@@ -1,0 +1,55 @@
+SPEECH SYNTHESIZER WORD ERROR RATE TEST ON 2021-12-29
+
+INPUT TEXT: The birch canoe slid on the smooth planks
+
+Synthesize input text 50 samples . . .
+
+Converting speech to text . . .
+
+OUTPUT TEXT: ["birch", "canoe", "slide", "on", "the", "smooth", "planks"]
+
+WER 1: 2.26
+
+
+INPUT TEXT: Glue the sheet to the dark blue background
+
+Synthesize input text 50 samples . . .
+
+Converting speech to text . . .
+
+OUTPUT TEXT: ["play", "the", "sheet", "to", "the", "dark", "blue"]
+
+WER 2: 2.30
+
+
+INPUT TEXT: It's easy to tell the depth of a well
+
+Synthesize input text 50 samples . . .
+
+Converting speech to text . . .
+
+OUTPUT TEXT: ["its", "easy", "to", "tell", "the", "depth", "of", "a"]
+
+WER 3: 2.34
+
+
+INPUT TEXT: These days a chicken leg is a rare dish
+
+Synthesize input text 50 samples . . .
+
+Converting speech to text . . .
+
+OUTPUT TEXT: ["these", "days", "a", "chicken", "leg", "is", "a", "red"]
+
+WER 4: 2.18
+
+
+INPUT TEXT: Rice is often served in round bowls
+
+Synthesize input text 50 samples . . .
+
+Converting speech to text . . .
+
+OUTPUT TEXT: ["price", "is", "often", "served", "in", "round"]
+
+WER 5: 2.14
